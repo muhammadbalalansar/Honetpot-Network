@@ -115,6 +115,7 @@ Use any password. Run commands like `ls`, `cat /etc/passwd`, `wget http://exampl
 
 **Infrastructure:** Docker Compose, PostgreSQL 17, Redis 7.4, nginx reverse proxy, multi-stage builds
 
+
 ## API
 
 | Endpoint | Description |
