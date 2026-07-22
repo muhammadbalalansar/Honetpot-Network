@@ -235,6 +235,7 @@ ssh: handshake failed: ssh: no common algorithm for host key
 ```
 Delete `data/hostkey_ed25519` and restart. A new key will be auto-generated.
 
+
 **PostgreSQL connection refused**
 Make sure the database is running. With Docker: `docker compose up -d postgres`. Check that PostgreSQL is listening on port 5432.
 
