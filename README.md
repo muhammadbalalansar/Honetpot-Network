@@ -6,7 +6,7 @@
 ██║  ██║╚██████╔╝██║ ╚████║███████╗   ██║   ██║ ╚████║███████╗   ██║   
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝   ╚═╝   
 ```
-By Muhammad Balal Ansar ( Cyber Security Expert)
+**By Muhammad Balal Ansar ( Cyber Security Expert)**
 
 
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%2326-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/advanced/honeypot-network)
