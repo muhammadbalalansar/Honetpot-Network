@@ -17,6 +17,7 @@
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-27_Techniques-orange?style=flat)](https://attack.mitre.org/)
 
+
 > Multi-protocol honeypot network that simulates six real services, captures attacker behavior, maps to MITRE ATT&CK, extracts IOCs, and visualizes everything through a real-time dashboard.
 
 *This is a quick overview. Security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
