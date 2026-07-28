@@ -23,7 +23,6 @@
 
 ## What It Does
 
-
 - Simulates 6 services: SSH (fake shell with 25+ commands), HTTP (WordPress/phpMyAdmin fakes), FTP (PASV file capture), SMB (negotiate), MySQL (wire protocol), Redis (RESP)
 - Captures every attacker interaction: credentials, commands, file uploads, scanning patterns, tool fingerprints
 - Maps behavior to 27 MITRE ATT&CK techniques across 8 tactics with single-event and sliding-window detection
