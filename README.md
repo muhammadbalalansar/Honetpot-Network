@@ -19,7 +19,6 @@
 
 > Multi-protocol honeypot network that simulates six real services, captures attacker behavior, maps to MITRE ATT&CK, extracts IOCs, and visualizes everything through a real-time dashboard.
 
-
 *This is a quick overview. Security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 ## What It Does
