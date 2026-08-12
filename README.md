@@ -106,7 +106,6 @@ Use any password. Run commands like `ls`, `cat /etc/passwd`, `wget http://exampl
 
 ## Stack
 
-
 **Backend:** Go 1.25, Chi v5, nhooyr.io/websocket, pgxpool (PostgreSQL), go-redis, zerolog, Cobra CLI
 
 **Frontend:** React 19, TypeScript, Vite 6, SCSS (OKLCH tokens), TanStack Query v5, Zustand, Recharts, react-leaflet, xterm.js
