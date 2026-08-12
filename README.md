@@ -213,7 +213,6 @@ honeypot-network/
 ├── learn/                 # Learning modules
 └── compose.yml            # Production Docker Compose
 ```
-
 ## Learn
 
 | Module | Topic |
