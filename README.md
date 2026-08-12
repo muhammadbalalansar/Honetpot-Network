@@ -252,7 +252,6 @@ This tool is designed for authorized security research and educational purposes.
 The authors are not responsible for misuse of this software.
 
 
-
 ## License
 
 AGPL 3.0
