@@ -166,6 +166,7 @@ hive migrate status              # Show migration status
 hive keygen                      # Generate SSH host key
 ```
 
+
 ## Configuration
 
 All settings can be set via YAML config file or environment variables:
