@@ -8,12 +8,13 @@
 ```
 
 **By Muhammad Balal Ansar ( Cyber Security Expert)**
+
 [![Go](https://img.shields.io/badge/Go-1.25+-00ADD8?style=flat&logo=go&logoColor=white)](https://go.dev)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Live Demo](https://img.shields.io/badge/Live-honeypot--network.carterperez--dev.com-green?style=flat&logo=googlechrome)](https://honeypot-network.carterperez-dev.com/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-27_Techniques-orange?style=flat)](https://attack.mitre.org/)
+
 
 > Multi-protocol honeypot network that simulates six real services, captures attacker behavior, maps to MITRE ATT&CK, extracts IOCs, and visualizes everything through a real-time dashboard.
 >
