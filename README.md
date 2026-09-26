@@ -15,7 +15,6 @@
 [![Live Demo](https://img.shields.io/badge/Live-honeypot--network.carterperez--dev.com-green?style=flat&logo=googlechrome)](https://honeypot-network.carterperez-dev.com/)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat&logo=docker)](https://www.docker.com)
 
-
 > Multi-protocol honeypot network that simulates six real services, captures attacker behavior, maps to MITRE ATT&CK, extracts IOCs, and visualizes everything through a real-time dashboard.
 
 
