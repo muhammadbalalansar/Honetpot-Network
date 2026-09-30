@@ -29,7 +29,7 @@
 - Records SSH sessions in asciicast v2 format, replayable in the browser via xterm.js
 - Streams events in real time via WebSocket to a React dashboard with attack maps, MITRE heatmaps, and session replay
 
-## Quick Start
+## Quick Start:
 
 ```bash
 git clone https://github.com/CarterPerez-dev/Cybersecurity-Projects.git
