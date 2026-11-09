@@ -237,7 +237,7 @@ Make sure the database is running. With Docker: `docker compose up -d postgres`.
 **Frontend WebSocket not connecting**
 The Vite dev server proxies `/ws/*` to the backend. Make sure the backend is running on port 8000 before starting the frontend.
 
-## Legal Disclaimer
+## Legal Disclaimer:
 
 This tool is designed for authorized security research and educational purposes. Deploying honeypots on networks you do not own or control may violate local laws and regulations. Before deploying:
 
