@@ -38,7 +38,7 @@ cp .env.example .env
 docker compose -f dev.compose.yml up -d
 ```
 
-Dashboard loads at `http://localhost:3000` or the live demo at [honeypot-network.carterperez-dev.com](https://honeypot-network.carterperez-dev.com/). Connect to the SSH honeypot to see your first captured session:
+Dashboard loads at   `http://localhost:3000` or the live demo at [honeypot-network.carterperez-dev.com](https://honeypot-network.carterperez-dev.com/). Connect to the SSH honeypot to see your first captured session:
 
 ```bash
 ssh root@localhost -p 2222
