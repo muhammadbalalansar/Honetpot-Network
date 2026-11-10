@@ -103,7 +103,7 @@ Use any password. Run commands like `ls`, `cat /etc/passwd`, `wget http://exampl
 | MySQL | 3307 | Raw TCP | Binary wire protocol greeting, auth capture, query handling |
 | Redis | 6380 | tidwall/redcon | RESP protocol, PING/AUTH/INFO/CONFIG/SET/GET/KEYS |
 
-## Stack:
+## Stack
 
 **Backend:** Go 1.25, Chi v5, nhooyr.io/websocket, pgxpool (PostgreSQL), go-redis, zerolog, Cobra CLI
 
