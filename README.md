@@ -223,7 +223,7 @@ honeypot-network/
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | SSH shell emulation, MySQL wire protocol, FTP state machine |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Add Telnet/SMTP, deploy to VPS, ML anomaly detection |
 
-## Common Issues:
+## Common Issues
 
 **SSH host key error on repeated starts**
 ```
