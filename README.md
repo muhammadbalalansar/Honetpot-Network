@@ -188,7 +188,7 @@ All settings can be set via YAML config file or environment variables:
 | `HIVE_SSH_HOSTKEY_PATH` | `data/hostkey_ed25519` | SSH host key path |
 | `HIVE_LOG_LEVEL` | `info` | Log level (debug, info, warn, error) |
 
-## Project Structure:
+## Project Structure
 
 ```
 honeypot-network/
