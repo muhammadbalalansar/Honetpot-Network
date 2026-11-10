@@ -241,7 +241,7 @@ The Vite dev server proxies `/ws/*` to the backend. Make sure the backend is run
 
 This tool is designed for authorized security research and educational purposes. Deploying honeypots on networks you do not own or control may violate local laws and regulations.
 
-*Before deploying**
+**Before deploying**
 
 - Ensure you have authorization from network owners
 - Check your cloud provider's acceptable use policy (some prohibit honeypots)
